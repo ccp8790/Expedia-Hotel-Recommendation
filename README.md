@@ -17,7 +17,7 @@ Our goal is to explore the dataset to understand customer behavior and preferenc
 - Normalizing and encoding the dataset to prepare for machine learning model input, tailoring these steps to the nature of different features.
 
 ##### Step 3: Model Selection and Construction
-Considering the dataset characteristics and project objectives, we decide to implement a RandomForestClassifier model. This choice is motivated by the model's ability to handle complex interactions and non-linear relationships between features.
+- Considering the dataset characteristics and project objectives, we decide to implement a RandomForestClassifier model. This choice is motivated by the model's ability to handle complex interactions and non-linear relationships between features.
 
 ##### Step 4: Model Tuning
 - Conduct analysis using edlbow plot to select the optimal number of estimators (n_estimators).
